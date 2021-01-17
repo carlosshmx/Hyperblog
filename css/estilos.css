@@ -46,17 +46,15 @@ body
     font-size: 100%;
 }
 
-<<<<<<< HEAD
 #footer
 {
     color: white;
     background: gray;
     text-align: center;
     padding: 0.5em;
-=======
+}
 #post
 {
     background: white;
     padding: 1em;
->>>>>>> 9a082bdd222b08e2da66df395e4c621f39fae8d3
 }
